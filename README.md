@@ -1,7 +1,8 @@
 # hwt-Fall23
 HACKWESTX Fall 2024 Challenge Problems
 
-![HACKWESTX Logo](https://www.hackwestx.tech/_next/static/media/screen.7094e3a8.svg)
+<img src="https://www.hackwestx.tech/_next/static/media/screen.7094e3a8.svg" alt="HACKWESTX Logo" width="50"/>
+
 
 ## Overview
 
