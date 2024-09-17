@@ -1,0 +1,53 @@
+Schema for table mytable0:
+- ComponentName (TEXT)
+- StatisticName (TEXT)
+- StatisticSubId (TEXT)
+- StatisticType (TEXT)
+- Sum_u64 (INTEGER)
+- SumSQ_u64 (INTEGER)
+- Count_u64 (INTEGER)
+- Min_u64 (INTEGER)
+- Max_u64 (INTEGER)
+Data from table mytable0:
+
+
+Tables in sample_databases/test3.sql: ['STATS_0']
+Schema for table STATS_0:
+- ComponentName (TEXT)
+- StatisticName (TEXT)
+- StatisticSubId (TEXT)
+- StatisticType (TEXT)
+- Sum_u64 (INTEGER)
+- SumSQ_u64 (INTEGER)
+- Count_u64 (INTEGER)
+- Min_u64 (INTEGER)
+- Max_u64 (INTEGER)
+Data from table STATS_0:
+
+Tables in sample_databases/test2.sql: ['STATS_0']
+Schema for table STATS_0:
+- ComponentName (TEXT)
+- StatisticName (TEXT)
+- StatisticSubId (TEXT)
+- StatisticType (TEXT)
+- Sum_u64 (INTEGER)
+- SumSQ_u64 (INTEGER)
+- Count_u64 (INTEGER)
+- Min_u64 (INTEGER)
+- Max_u64 (INTEGER)
+Data from table STATS_0:
+
+Objects in the database (test1.sql):
+Type: table, Name: mytable0, Table: mytable0
+SQL Definition: CREATE TABLE mytable0 ( ComponentName TEXT NOT NULL, StatisticName TEXT NOT NULL, StatisticSubId TEXT, StatisticType TEXT NOT NULL,Sum_u64 INTEGER,SumSQ_u64 INTEGER,Count_u64 INTEGER,Min_u64 INTEGER,Max_u64 INTEGER)
+
+Objects in the database (test2.sql):
+Type: table, Name: STATS_0, Table: STATS_0
+SQL Definition: CREATE TABLE STATS_0 ( ComponentName TEXT NOT NULL, StatisticName TEXT NOT NULL, StatisticSubId TEXT, StatisticType TEXT NOT NULL,Sum_u64 INTEGER,SumSQ_u64 INTEGER,Count_u64 INTEGER,Min_u64 INTEGER,Max_u64 INTEGER)
+
+Objects in the database (test3.sql):
+Type: table, Name: STATS_0, Table: STATS_0
+SQL Definition: CREATE TABLE STATS_0 ( ComponentName TEXT NOT NULL, StatisticName TEXT NOT NULL, StatisticSubId TEXT, StatisticType TEXT NOT NULL,Sum_u64 INTEGER,SumSQ_u64 INTEGER,Count_u64 INTEGER,Min_u64 INTEGER,Max_u64 INTEGER)
+
+Installed this to view the SQL file in a more readable format (EXCEL).
+conda install openpyxl
