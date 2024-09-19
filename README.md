@@ -1,4 +1,7 @@
-# hwt-Fall23
+# Quick learning project
+This hackathon side project was y intro to SQL and IPyWidgets with Jupyter Notebook for dynamic data vizualization
+
+## hwt-Fall23
 HACKWESTX Fall 2024 Challenge Problems
 
 <img src="https://www.hackwestx.tech/_next/static/media/screen.7094e3a8.svg" alt="HACKWESTX Logo" width="50"/>
