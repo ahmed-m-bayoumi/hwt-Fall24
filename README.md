@@ -1,5 +1,5 @@
 # Quick learning project
-This hackathon side project was y intro to SQL and IPyWidgets with Jupyter Notebook for dynamic data vizualization
+This hackathon side project was my intro to SQL and IPyWidgets with Jupyter Notebook for dynamic data vizualization
 
 ## hwt-Fall23
 HACKWESTX Fall 2024 Challenge Problems
